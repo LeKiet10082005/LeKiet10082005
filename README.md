@@ -13,7 +13,7 @@ My mission is to build data-driven learning loops that break down complex concep
 ### 🎯 What I'm currently working on:
 - 🛠️ **EdTech Math 12 System:** Architecting a comprehensive Knowledge Management & Question Bank platform for the 2026+ National Exams (THPTQG).
 - 🧠 **Adaptive Learning Flowcharts:** Translating pedagogical logic into automated systems that catch students when they fall and build their resilience.
-- 📚 Deepening my knowledge in **Software Engineering (SE)** and **Information Systems (IS)** at HCMUS.
+- 📚 Deepening my knowledge in **Software Engineering (SE)** at HCMUS.
 
 ---
 
