@@ -1,31 +1,107 @@
-# Hi there 👋, I'm Lê Phan Tuấn Kiệt! 🚀
+# Hi there 👋 I'm Lê Phan Tuấn Kiệt
 
-### 🎓 3rd-year IT Student @ HCMUS (Cohort 2024) | Aspiring Product Manager & EdTech System Architect
+🎓 **Third-year Information Technology student at VNUHCM – University of Science (HCMUS)**
+🧠 **Specializing in Knowledge Engineering**
+💻 **Aspiring Software Engineer**
 
-*"A smooth sea never made a skilled sailor."* 🌊
+I'm an Information Technology student at HCMUS, currently focusing on strengthening my programming fundamentals and learning how to build reliable, practical software.
 
-I believe the true power of an EdTech system lies not in just testing the top-tier students, but in guiding the struggling ones through their roughest academic waves. By combining my pedagogical background in teaching Mathematics with modular System Design, I architect scalable and highly adaptive learning platforms. 
+My current learning path combines **C++, Python, Data Structures & Algorithms, SQL, databases, and software engineering fundamentals**. I learn through university coursework, self-study, and hands-on projects.
 
-My mission is to build data-driven learning loops that break down complex concepts, helping even the weakest students approach, progress, and conquer the National High School Exam.
-
----
-
-### 🎯 What I'm currently working on:
-- 🛠️ **EdTech Math 12 System:** Architecting a comprehensive Knowledge Management & Question Bank platform for the 2026+ National Exams (THPTQG).
-- 🧠 **Adaptive Learning Flowcharts:** Translating pedagogical logic into automated systems that catch students when they fall and build their resilience.
-- 📚 Deepening my knowledge in **Software Engineering (SE)** at HCMUS.
+I believe that strong fundamentals matter. My goal is not simply to learn more technologies, but to understand how software works, solve problems independently, and gradually turn ideas into working products.
 
 ---
 
-### 💻 Tech Stack & Tools:
-- **Product Management & Design:** Notion, Draw.io, Lucidchart, Figma
-- **Database & Data Modeling:** SQL, Google Sheets (No-code DB), ERD Design
-- **Core Programming:** Python, C++, Git/GitHub
-- **Mindset:** System Analysis, Adaptive Learning Logic, User-Centric Design
+## 🛠️ Technical Focus
+
+### Programming
+
+* **C++** — Programming Fundamentals, OOP, Data Structures & Algorithms
+* **Python** — Programming Fundamentals, Problem Solving, Data Processing
+* **SQL** — Relational Databases and Querying
+
+### Software Development
+
+* Git & GitHub
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Database Design
+* Software Engineering fundamentals
+* REST APIs & Backend Development *(currently learning)*
+
+### Currently Exploring
+
+* Python Backend Development
+* FastAPI
+* PostgreSQL
+* Web Application Development
+* Docker
 
 ---
 
-### 📫 How to reach me:
-- **Email:** [lephantuankiet1008@gmail.com]
+## 🚀 Projects
 
-*"Transforming raw educational data into structured, actionable intelligence."*
+### 📈 Quantitative Finance: Markov Chain Stock Market Predictor
+
+A project applying discrete-time Markov Chains to historical financial data.
+
+The project includes data processing, market-state classification, transition matrices, stationary distributions, visualization, and mathematical analysis.
+
+**Technologies:** Python, NumPy, Pandas, Matplotlib, Jupyter Notebook
+
+🔗 [View Project](https://github.com/LeKiet10082005/Quant-Finance-Markov-Model)
+
+---
+
+### 🎓 EdTech Project — In Progress
+
+A personal project exploring how software and knowledge-based approaches can be applied to education.
+
+The project is inspired by my experience teaching Mathematics and aims to explore areas such as learning workflows, question banks, student progress, knowledge organization, and educational data.
+
+The current focus is on understanding the problem, designing the system, and gradually turning the idea into a working software product.
+
+---
+
+## 📚 What I'm Working On
+
+Right now, I'm focused on building a solid foundation rather than rushing into too many advanced technologies.
+
+My current roadmap is:
+
+**C++ & Python → DSA & OOP → SQL & Databases → Backend Development → Real-world Projects**
+
+Alongside technical skills, I'm also improving my **English for technical reading, documentation, and professional communication**.
+
+---
+
+## 🎯 Career Direction
+
+I'm preparing for a future **Software Engineering internship**, with a particular interest in **Python/backend development and practical software systems**.
+
+As a Knowledge Engineering student, I'm also interested in the intersection of:
+
+**Software Engineering × Knowledge × Education**
+
+In the long term, I hope to build software that is not only technically sound, but also useful to real users.
+
+---
+
+## 👨‍🏫 Beyond Programming
+
+Besides studying IT, I work as a **Mathematics tutor**.
+
+Teaching has helped me develop communication skills, structured problem solving, and the ability to explain difficult concepts in a clear and practical way.
+
+I believe these skills are valuable when working with both users and engineering teams.
+
+---
+
+## 📫 Contact
+
+* **GitHub:** [LeKiet10082005](https://github.com/LeKiet10082005)
+* **Email:** [lephantuankiet1008@gmail.com](mailto:lephantuankiet1008@gmail.com)
+
+---
+
+> **Learn. Build. Understand. Improve.**
